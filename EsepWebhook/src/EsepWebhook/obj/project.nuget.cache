@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lAxuFv667Gsr/mSgOOoNCXE48JVGMeHYUS56enaNdj5D42EYcIVOxZRoWxU8d2qsVqJfFeeBZnSOWAZmZ2bX8w==",
+  "success": true,
+  "projectFilePath": "/Users/viraj/Dev/esep-webhooks/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/viraj/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/viraj/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/viraj/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/viraj/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.15/microsoft.netcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/viraj/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "/Users/viraj/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.15/microsoft.aspnetcore.app.runtime.linux-x64.6.0.15.nupkg.sha512",
+    "/Users/viraj/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.15/microsoft.netcore.app.crossgen2.osx-arm64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
